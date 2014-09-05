@@ -1,0 +1,50 @@
+---
+layout: home
+title: "S'inscrire ou me suivre"
+custom_css: modules/subscribe-follow
+---
+
+<div class="subscribe-follow" id="subscribe-follow">
+
+  <section class="subscribe-follow-primary">
+    <h2>Permettez-moi de vous envoyer un courriel à la parution d'un article</h2>
+
+    <form class="subscribe-follow-email-form"
+      action="https://tinyletter.com/pascallaliberte" method="post"
+      target="popupwindow"
+      onsubmit="window.open('https://tinyletter.com/pascallaliberte', 'popupwindow', 'scrollbars=yes,width=1030,height=670');return true">
+      <input class="subscribe-follow-email-address" type="email" name="email" id="tlemail" placeholder="adresse courriel"/>
+      <input type="hidden" value="1" name="embed"/>
+      <input class="subscribe-follow-email-submit btn btn-default" type="submit" value="S'inscrire" />
+    </form>
+
+    <p class="note">
+      Vous ne recevrez un courriel de ma part que lorsque je publierai un article à ce journal (Je ne vous enverrez pas de pourriel). Si vous désirez cesser de recevoir ces courriels, vous pourrez suivre le lien « se désinscrire » figurant au bas du courriel. Voir ci-bas pour d'autres moyens de communiquer avec moi.
+    </p>
+
+  </section>
+
+  <hr class="post-separator">
+
+  <section class="subscribe-follow-secondary">
+
+    <h2>Où d'autres peut-on te trouver sur internet&nbsp;?</h2>
+
+    <p>Je partage mes articles sur
+      <a href="http://twitter.com/pascallaliberte" title="Twitter: @pascallaliberte">Twitter</a>,
+      <a href="https://www.facebook.com/pascallaliberte" title="Facebook: pascallaliberte">Facebook</a>,
+      <a href="https://plus.google.com/104794227710544002483/posts" title="Google+">Google+</a> et
+      <a href="http://www.linkedin.com/in/pascallaliberte" title="LinkedIn">LinkedIn</a>.
+      Vous pouvez également trouver des exemples de mon travail sur
+      <a href="https://github.com/pascallaliberte" title="Github: pascallaliberte">Github</a>.
+    </p>
+
+    <h2>Est-ce que tu publie un flux RSS&nbsp;?</h2>
+
+    <p>Oui. Voici l'adresse du flux RSS:</p>
+
+    <p><code class="subscribe-follow-rss"><a href="{{ site.url }}/feed.xml">{{ site.url }}/feed.xml</a></code></p>
+
+  </section>
+
+</div>

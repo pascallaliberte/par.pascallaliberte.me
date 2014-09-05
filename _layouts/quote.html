@@ -9,22 +9,22 @@ key: is-post is-quote
 
 <div class="post-details post-quote-details">
   {{ content }}
-  
+
   {% if page.source %}
   <div class="post-quote-source">
     <p class="post-quote-dash">&mdash;</p>
     {{ page.source | markdownify }}
   </div>
   {% endif %}
-  
+
 </div>
 
 <p class="meta">
   <time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | date: "%B %e, %Y" }}</time>
-  
+
   {% include permalink.html %}
   </p>
-  
+
 {% include share.html layout="quote" %}
 
 </article>
@@ -36,9 +36,9 @@ key: is-post is-quote
 {% include blog-nav.html %}
 
 <footer class="post-next-steps">
-  <a class="subscribe-follow-link btn btn-default" href="{{ site.baseurl}}/subscribe-follow/">
+  <a class="subscribe-follow-link btn btn-default" href="{{ site.baseurl}}/sinscrire-suivre/">
     <i class="fa fa-star-o"></i>
-    Subscribe + Follow
+    S'inscrire ou me suivre
   </a>
   {% include blog-nav-pagination-summary-links.html %}
 </footer>
