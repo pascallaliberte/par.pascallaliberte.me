@@ -3,17 +3,17 @@
     {% if paginator.previous_page %}
     {% if paginator.previous_page > 1 %}
     <a href="{{ site.baseurl}}/page{{ paginator.previous_page }}" class="blog-nav-previous">
-      <h3 class="blog-nav-label">Newer posts</h3>
+      <h3 class="blog-nav-label">Articles plus récents</h3>
     {% else %}
     <a href="{{ site.baseurl}}/" class="blog-nav-previous">
-      <h3 class="blog-nav-label">Latest posts</h3>
+      <h3 class="blog-nav-label">Articles les plus récents</h3>
     {% endif %}
-    </a> 
+    </a>
     {% endif %}
     {% if paginator.next_page %}
     <a href="{{ site.baseurl}}/page{{ paginator.next_page }}" class="blog-nav-next">
-      <h3 class="blog-nav-label">Older posts</h3>
-    </a> 
+      <h3 class="blog-nav-label">Articles précédents</h3>
+    </a>
     {% endif %}
   </nav>
 </div>

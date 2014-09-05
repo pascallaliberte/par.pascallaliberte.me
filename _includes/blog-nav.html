@@ -3,21 +3,21 @@
 
 <div class="blog-nav-container">
   <nav class="blog-nav">
-    {% if page.previous.url %} 
+    {% if page.previous.url %}
     <a href="{{ page.previous.url }}" class="blog-nav-previous">
-      <h3 class="blog-nav-label">Older post<span class="separator">:</span></h3>
+      <h3 class="blog-nav-label">Articles précédents<span class="separator">:</span></h3>
       <p class="blog-nav-post-title{% unless previous_page_title_difference contains '-' %} is-long{% endunless %}">
       {{ page.previous.title }}
       </p>
-    </a> 
-    {% endif %} 
-    {% if page.next.url %} 
+    </a>
+    {% endif %}
+    {% if page.next.url %}
     <a href="{{ page.next.url }}" class="blog-nav-next">
-      <h3 class="blog-nav-label">Newer post<span class="separator">:</span></h3>
+      <h3 class="blog-nav-label">Articles plus récents<span class="separator">:</span></h3>
       <p class="blog-nav-post-title{% unless next_page_title_difference contains '-' %} is-long{% endunless %}">
       {{ page.next.title }}
       </p>
     </a>
-    {% endif %} 
+    {% endif %}
   </nav>
 </div>
