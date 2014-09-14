@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Surviving a crisis of faith and living the Gospel fully'
+title: "Survivre une crise de foi et vivre l'Évangile à fond"
 date: 2014-04-29 20:12pm
 ---
 

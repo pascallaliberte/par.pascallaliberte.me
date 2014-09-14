@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'God, cocreator'
+title: 'Dieu, co-créateur'
 date: 2014-06-12 22:06pm
 ---
 

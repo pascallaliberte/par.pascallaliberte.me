@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Away from the family'
+title: "Devoir s'absenter de la famille"
 date: 2014-08-01 8:11am
 ---
 

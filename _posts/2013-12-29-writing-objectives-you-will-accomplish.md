@@ -1,6 +1,6 @@
 ---
 layout: post
-title: 'Writing objectives you will accomplish'
+title: 'Rédiger des objectifs qui seront accomplis'
 date: 2013-12-29 3:20pm
 ---
 
@@ -8,7 +8,7 @@ There's a problem with most of the objectives we write down: most of them are wr
 
 ![Arrows stopping short of the goal]({{ site.baseurl }}/d/2013/writing-objectives-you-will-accomplish-01.png)
 
-Objectives we write usually end up looking something like this: 
+Objectives we write usually end up looking something like this:
 
 ### My objectives:
 
