@@ -1,0 +1,5 @@
+{% if page.original == 'true' %}
+  <a href="{{ site.alt_lang_url }}{{ page.alt_lang_path }}" lang="{{ site.alt_lang }}" hreflang="{{ site.alt_lang }}" rel="alternate">Translated to English</a>
+{% else %}
+  <a href="{{ site.alt_lang_url }}{{ page.alt_lang_path }}" lang="{{ site.alt_lang }}" hreflang="{{ site.alt_lang }}" rel="alternate">Translated from English</a>
+{% endif %}

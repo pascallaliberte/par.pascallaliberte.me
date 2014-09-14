@@ -19,6 +19,9 @@ key: is-post
 
 <p class="meta">
   <time datetime="{{ page.date | date_to_xmlschema }}" pubdate="pubdate">{{ page.date | date: "%B %e, %Y" }}</time>
+  {% if page.alt_lang_path %}
+    {% include alt_lang_link.html %}
+  {% endif %}
   {% if page.link %}
     {% include permalink.html %}
   {% endif %}
