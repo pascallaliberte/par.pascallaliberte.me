@@ -2,6 +2,7 @@
 layout: post
 title: "Survivre une crise de foi et vivre l'Évangile à fond"
 date: 2014-04-29 20:12pm
+alt_lang_path: /2014-04-surviving-a-crisis-of-faith/
 ---
 
 If you care about faith and about being a sensible, honest person, you've probably struggled with doubt. Maybe you're going through a crisis of faith right now. If so, hold on.

@@ -2,6 +2,8 @@
 layout: post
 title: "Devoir s'absenter de la famille"
 date: 2014-08-01 8:11am
+alt_lang_path: /2014-08-away-from-the-family/
+original: true
 ---
 
 Taking time away from the family can feel wrong, like you're neglecting the ones you love. There's no need to feel that way.

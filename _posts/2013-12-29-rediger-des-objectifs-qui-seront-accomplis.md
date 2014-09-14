@@ -2,6 +2,7 @@
 layout: post
 title: 'Rédiger des objectifs qui seront accomplis'
 date: 2013-12-29 3:20pm
+alt_lang_path: /2013-12-writing-objectives-you-will-accomplish/
 ---
 
 There's a problem with most of the objectives we write down: most of them are written as wishes, and that's why they don't get done.

@@ -2,6 +2,7 @@
 layout: post
 title: Une introduction aux modèles mentaux
 date: 2014-01-19 0:09am
+alt_lang_path: /2014-01-intro-to-mental-models/
 ---
 
 A few years ago, I discovered  something that turned out to play an essential role in my personal development: I found out about mental models. While before I was trapped in my own ways of thinking, I'm now much more in command of my thoughts.

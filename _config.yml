@@ -1,6 +1,9 @@
 name: Propos sur mener une vie moderne tout en vivant l'Évangile
 author: Pascal Laliberté
 url: http://par.pascallaliberte.me
+lang: fr
+alt_lang: en
+alt_lang_url: http://pascallaliberte.me
 markdown: kramdown
 highlighter: true
 permalink: /:categories/:year-:month-:title/

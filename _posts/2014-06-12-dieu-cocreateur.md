@@ -2,6 +2,8 @@
 layout: post
 title: 'Dieu, cocréateur'
 date: 2014-06-12 22:06pm
+alt_lang_path: /2014-06-god-cocreator/
+original: true
 ---
 
 We'll never know for sure where God has touched the world. If he's better than the best among us, maybe all that hiding was the plan all along.
