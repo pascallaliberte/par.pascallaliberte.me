@@ -25,7 +25,7 @@ layout: home
     {% endif %}
 
     <p class="meta">
-      {{ post.date | date: "%B %e, %Y" }}
+      {% include post-date.html %}
       {% if post.link %}
         {% include permalink.html %}
       {% endif %}
@@ -60,7 +60,7 @@ layout: home
     </div>
 
     <p class="meta">
-      {{ post.date | date: "%B %e, %Y" }}
+      {% include post-date.html %}
 
       {% include permalink.html %}
       </p>

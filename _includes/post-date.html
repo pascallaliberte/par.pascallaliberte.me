@@ -1,0 +1,24 @@
+{% if post %}{% assign post_date = post.date %}{% else %}{% assign post_date = page.date %}{% endif %}
+
+{% if site.lang == 'fr' %}
+  <time datetime="{{ post_date | date_to_xmlschema }}" pubdate="pubdate">
+    {% assign d = post_date | date: "%-d" %}{% assign m = post_date | date: "%m" %}
+    {{ d }}{% if d == '1' %}<sup>er</sup>{% endif %}
+    {% case m %}
+      {% when '01' %}janvier
+      {% when '02' %}février
+      {% when '03' %}mars
+      {% when '04' %}avril
+      {% when '05' %}mai
+      {% when '06' %}juin
+      {% when '07' %}juillet
+      {% when '08' %}août
+      {% when '09' %}septembre
+      {% when '10' %}octobre
+      {% when '11' %}novembre
+      {% when '12' %}décembre
+    {% endcase %} {{ post_date | date: "%Y" }}
+  </time>
+{% else %}
+  <time datetime="{{ post_date | date_to_xmlschema }}" pubdate="pubdate">{{ post_date | date: "%B %e, %Y" }}</time>
+{% endif %}
