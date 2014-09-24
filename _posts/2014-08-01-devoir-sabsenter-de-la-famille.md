@@ -6,28 +6,28 @@ alt_lang_path: /2014-08-away-from-the-family/
 original: true
 ---
 
-Taking time away from the family can feel wrong, like you're neglecting the ones you love. There's no need to feel that way.
+Quand on s'absente de notre famille, on peut facilement tomber dans la culpabilité, comme si une sortie voudrait dire qu'on négligerait ceux qu'on aime. Il n'est pas nécessaire d'éprouver ce malaise.
 
-I used to feel spread out, like I had a lot on the go: the family, work, our involvement at church, our friends, the extended family too. Maybe you're in that same situation, finding there are just too many mouths to feed, too many things to pursue.
+Il y a un temps, je me sentais vraiment éparpillé, que j'en avais beaucoup à gérer: la famille, le travail, notre implication à l'église, nos amis, et la famille éloignée aussi -- les oncles, les tantes. Tu es peut-être dans une situation similaire, trouvant que tu as trop de balles à jongler, trop d'intérêts à poursuivre.
 
-![When you have a lot on the go, it feels like going away from the family means neglecting it]({{ site.base_url }}/d/2014/away-from-the-family-01.jpg)
+![Quand on en a beaucoup à l'agenda, s'absenter de la famille nous fait sentir comme on la néglige]({{ site.base_url }}/d/2014/away-from-the-family-01.jpg)
 
-It's not fun feeling spread thin. And where do you have time for yourself in all of this? Taking time off means you need to say no to some stuff so that you can say yes to yourself. If you look at it that way, it seems as though you're competing with your responsibilities. Yuck.
+C'est moche de se sentir aussi partagé. Et où trouveras-tu le temps pour prendre soin de toi dans tout ça? Prendre un temps de pause semble dire qu'il faudrait que tu renonces à certains engagements pour te mettre en premier, pour un instant. Quand on le regarde de cet angle-là, on pourrait penser que tu trouves en concurrence avec tes reponsibilités. Répugnant comme situation, non?
 
-And what about your involvement in good causes? Those are important, but now that you have a family, you have to cut back on your involvement and that means you have to let some people down, people that you care for.
+Et tes implications dans de bonne causes, on en fait quoi? Ces activités là te sont importantes, mais puisque maintenant il y a la famille, il faut couper dans tes implications. Forcément, il faudra laisser tomber des gens qui dépendent sur ton aide, des gens qui te tiennent à coeur.
 
-And then there's work. The problem with it is that it can sometimes become more than just work. Sometimes it's a whole separate universe, where you take on another personality and wear a role you need to get out of before coming back home. Or maybe it's not that bad, and you can be the real you at work. Still, it's hard to give work the best of you and still put your family first.
+Puis il y a le travail. Le problème c'est que ça peut devenir beaucoup plus que du travail. Des fois, c'est un univers complètement séparé, où tu adoptes une nouvelle personnalité et tu portes un rôle dont tu dois sortir avant de revenir au foyer. Ou peut-être que ta situation n'est pas si grave et que tu peux être toi-même au bureau. De toute façon, avouons qu'il est difficile de se donner à fond au travail tout en mettant la famille en premier.
 
-There's no going around it though: you're going to take time away from the family. Maybe we should keep those times at a minimum? Maybe. And maybe there's a way to know _when_ it's a good idea to go out into the world.
+Sauf que, dans tout ça, il y a bien une chose qui est incontournable: tu auras besoin de t'absenter de la famille à l'occasion. Peut-être devrait-on garder ces sorties au minimum? Peut-être. Et peut-être qu'il y a une façon de savoir _quand_ c'est le bon moment de s'absenter et d'aller dans le monde.
 
 <!-- MORE -->
 
-Here's the idea: instead of seeing yourself as leaving the family, think of it like you're taking the family with you, in your mind. If you're going to have some time alone, the whole family's there with you. If you're going to give to a good cause, the family is also there. And when you go to work, the family is alongside you there too. Only, the family isn't really there. Since they can't all be there with you, see it as if they have _sent_ you there.
+Voici l'idée: au lieu de te voir comme si tu quittais la famille, penses-y comme si tu apportais la famille avec toi, dans ta tête. Si tu t'absentes pour du temps de solitude, la famille s'y trouve avec toi. Si tu quittes pour donner à une cause, la famille s'y trouve aussi. Et lorsque tu te présentes au travail, ta famille est là, à tes côtés. Sauf que, bien sûr, la famille ne s'y trouve pas vraiment. Puisque les membres de ta famille ne peuvent pas tous être avec toi, l'idée c'est de voir comme s'ils t' _envoyaient_.
 
-The family has _sent_ you to go somewhere on the _family's behalf_. You _represent_ the family. When you're out on a retreat or with your friends, you're going away to bring something back: more energy, a clearer head, a better you. When you're out helping a cause, the family has sent the best person to give to that cause. It's the family giving to the cause, not just you. When you're going to work, you're both going to get some money to feed the family, and you're out to help the world with the skill you have, being the only one in the family with that skill.
+La famille t'a _envoyé_ en quelque part _en son nom_. Tu _représente_ la famille. Lorsque tu prends une sortie avec les amis, tu t'absentes pour ramener quelque chose en retour: plus d'énergie, des pensées plus claires, une meilleure version de toi-même. Lorsque tu te portes volontaire à une bonne cause, c'est la famille qui envoit la meilleure personne pour donner à cette cause. C'est la famille qui donne à cette cause, non pas toi. Quand tu te présentes au travail, tu t'absentes pour revenir avec un salaire pour mettre du pain sur la table, et aussi pour améliorer la société avec l'aptitude qui te distingue, étant le seul dans ta famille qui la maîtrise.
 
-This idea may change which activities you choose to do. It did for me -- I hang out with certain friends more, we changed some of the causes we're involved in, and I certainly changed how I see my work. I feel more on top of things now and so does my wife. We can tell the kids participate in the new vision too: they want me to succeed in my work and they're proud to see me go. Life is now a family project.
+Cette idée risque d'affecter les activités que tu choisiras dorénavent. Ce l'était dans mon cas -- je me tiens davantage avec certains types d'amis, j'ai changé les causes dans lesquelles je m'implique, et j'ai certainement changé mon regard sur mon emploi. Je me sens plus en contrôle et mon épouse aussi. Nous constatons également que les enfants y participent à cette nouvelle vision: ils souhaitent la réussite dans mon travail et ils sont fiers de me voir partir. La vie est maintenant un projet familial.
 
-So no need to feel like you can't get away from the family. It's the family that's sending you. Go do what you have to do.
+Ça ne sert donc à rien de penser qu'il est mauvais de s'absenter de la famille. C'est la famille qui t'envoies. Va, et fait ce que tu dois faire.
 
-![It's not that you go out by yourself into the world. Instead, it's the family sending you]({{ site.base_url }}/d/2014/away-from-the-family-02.jpg)
+![Oublie l'idée que c'est toi qui part dans le monde. C'est plutôt la famille qui t'envoie]({{ site.base_url }}/d/2014/away-from-the-family-02.jpg)
