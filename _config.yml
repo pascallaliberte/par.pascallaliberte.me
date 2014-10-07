@@ -3,7 +3,7 @@ author: Pascal Laliberté
 url: http://par.pascallaliberte.me
 lang: fr
 alt_lang: en
-alt_lang_url: http://pascallaliberte.me
+alt_lang_url: http://by.pascallaliberte.me
 markdown: kramdown
 highlighter: true
 permalink: /:categories/:year-:month-:title/
