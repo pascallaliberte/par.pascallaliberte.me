@@ -7,7 +7,7 @@ alt_lang_path: /2013-12-writing-objectives-you-will-accomplish/
 
 La plupart des objectifs que l'on se fixe souffrent d'un problème: ils sont rédigés comme des souhaits, et c'est pour cette raison qu'il est difficile de les réaliser.
 
-![Des flèches n'atteignant pas complètement l'objectif]({{ site.baseurl }}/d/2013/writing-objectives-you-will-accomplish-01.png)
+![Des flèches n'atteignant pas complètement l'objectif]({{ site.baseurl }}/d/2014/rediger-des-objectifs-et-les-realiser-01.png)
 
 Les objectifs que nous nous donnons prennent souvent une allure similaire à celle-ci:
 
@@ -46,7 +46,7 @@ Alors comment réécrire ces objectifs pour qu'ils soient moins comme des souhai
 
 ## Introduire le « j'aurai »
 
-![Des flèches n'atteignant pas complètement l'objectif, et une flèche qui l'atteint]({{ site.baseurl }}/d/2013/writing-objectives-you-will-accomplish-02.png)
+![Des flèches n'atteignant pas complètement l'objectif, et une flèche qui l'atteint]({{ site.baseurl }}/d/2014/rediger-des-objectifs-et-les-realiser-02.png)
 
 Dans le concret, le truc à employer est un peu surprenant: Réécrire le titre de la liste d'objectifs et y inclure l'expression « j'aurai ». Y ajouter également une date: « **Avant le mois de mai, j'aurai**. »
 

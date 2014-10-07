@@ -17,7 +17,7 @@ Avant de continuer avec cette histoire, considérons d'abord deux énoncés oppo
 
 L'animateur a proposé à l'Amérindien l'exercice suivant: étend tes bras de chaque côté. L'une de tes mains représente le guerrier, et l'autre, le guérisseur. Ressent la tension entre les deux mains et comment les deux mains sont distinctes. Lentement, rapproche les en avant de toi, puis joint-les. Maintenant, elles ne font qu'une.
 
-![Deux flèches qui pointent vers un même espace]({{ site.base_url }}/d/2014/surviving-a-crisis-of-faith.jpg)
+![Deux flèches qui pointent vers un même espace]({{ site.base_url }}/d/2014/survivre-une-crise-de-foi.jpg)
 
 Reconsidère maintenant les deux énoncés proposés ci-haut et applique-les à cet exercice: l'une des mains représente « il existe un Dieu » et l'autre main représente « il n'existe pas un Dieu ». Lequel des deux est vrai?
 

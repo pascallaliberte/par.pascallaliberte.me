@@ -10,7 +10,7 @@ Quand on s'absente de notre famille, on peut facilement se culpabiliser, comme s
 
 Il y a un certain temps, je me sentais vraiment éparpillé, que j'en avais beaucoup à gérer: la famille, le travail, notre implication à l'église, nos amis, et la famille éloignée aussi - les oncles, les tantes. Peut-être es-tu dans une situation similaire, trouvant que tu as trop de balles à jongler, trop d'intérêts à poursuivre.
 
-![Quand on en a beaucoup à l'agenda, s'absenter de la famille nous fait sentir qu'on la néglige]({{ site.baseurl }}/d/2014/away-from-the-family-01.jpg)
+![Quand on en a beaucoup à l'agenda, s'absenter de la famille nous fait sentir qu'on la néglige]({{ site.baseurl }}/d/2014/sabsenter-de-la-famille-01.jpg)
 
 C'est moche de se sentir ainsi partagé. Et où trouveras-tu le temps de prendre soin de toi dans tout ça? Prendre un temps de pause semble dire qu'il faut que tu renonces à certains engagements afin de te mettre en premier. Quand on le voit sous cet angle-là, on pourrait penser que tu es en concurrence avec tes reponsibilités. Répugnante comme situation, non?
 
@@ -30,4 +30,4 @@ Cette idée risque d'affecter les activités que tu choisiras dorénavent. Ça �
 
 Ça ne sert donc à rien de penser qu'il est mauvais de s'absenter de la famille. C'est la famille qui t'envoie. Va, et fait ce que tu dois faire.
 
-![Oublie l'idée que c'est toi qui part dans le monde. C'est plutôt la famille qui t'envoie]({{ site.baseurl }}/d/2014/away-from-the-family-02.jpg)
+![Oublie l'idée que c'est toi qui part dans le monde. C'est plutôt la famille qui t'envoie]({{ site.baseurl }}/d/2014/sabsenter-de-la-famille-02.jpg)

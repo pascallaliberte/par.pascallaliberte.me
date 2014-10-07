@@ -43,7 +43,7 @@ Dans l'ouvrage *[Leadership agility][leadership-agility]*, Bill Joiner [énumèr
 [leadership-agility]:http://www.amazon.com/Leadership-Agility-Mastery-Anticipating-Initiating/dp/0787979139
 [cinq-stages]:http://www.amanet.org/training/articles/The-Five-Levels-of-Leadership-Agility.aspx
 
-![les cinq stages de maturité: l'Expert, le Fonceur, un plafond développemental, le Catalyseur, le Cocréateur, le Synergiste]({{ site.base_url }}/d/2014/five-stages-of-maturity.png)
+![les cinq stages de maturité: l'Expert, le Fonceur, un plafond développemental, le Catalyseur, le Cocréateur, le Synergiste]({{ site.base_url }}/d/2014/cinq-stages-de-maturite.png)
 
 Les trois niveaux supérieurs décrivent les stages dans lesquels opèrent nos plus excellents leaders. Ils ont franchis une cloison invisible, un *plafond* développemental, qui les ont contraints à délaisser leur égo. Au lieu d'accomplir ce que leur égo voudrait déployer, ils accomplissent ce qui doit être fait.
 

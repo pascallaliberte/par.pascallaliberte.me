@@ -17,7 +17,7 @@ J'ai finalement retourné à mon ancien poste, et cette idée des modèles menta
 
 ## Les modèles mentaux, comme des lentilles colorées
 
-![Fixer son regard sur une pomme verte, et l'interpréter comme une pomme rouge]({{ site.base_url }}/d/2014/intro-to-mental-models-01.jpg)
+![Fixer son regard sur une pomme verte, et l'interpréter comme une pomme rouge]({{ site.base_url }}/d/2014/intro-aux-modeles-mentaux-01.jpg)
 
 Disons qu'à la naissance, tu serais né avec des lunettes teintées rose. Toute ta vie, tu n'aurais jamais constaté qu'il y aurait d'autres façons de voir le monde qu'avec les couleurs qui affectaient ta perception.
 
@@ -48,7 +48,7 @@ Ton esprit ne s'aperçoit habituellement pas qu'il se situe derrière un filtre.
 
 ## Identifier le modèle mental qui t'habite
 
-![Identifier la présence d'un filtre, et on perçoit l'objet véritable, une pomme verte]({{ site.base_url }}/d/2014/intro-to-mental-models-02.jpg)
+![Identifier la présence d'un filtre, et on perçoit l'objet véritable, une pomme verte]({{ site.base_url }}/d/2014/intro-aux-modeles-mentaux-02.jpg)
 
 Il existe quelques signes habituels qui indiquent que ton esprit est au pris avec un modèle mental. Il y aura un malaise. Tu seras agité, agacé, impatient. Tu pourras te trouver fixé à une idée. Tu seras dans une _réaction_. Lorsqu'on se trouve dans une telle situation de réaction, il devient difficile de regagner de la perspective.
 
