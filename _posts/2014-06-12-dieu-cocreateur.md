@@ -5,62 +5,62 @@ date: 2014-06-12 22:06pm
 alt_lang_path: /2014-06-god-cocreator/
 ---
 
-We'll never know for sure where God has touched the world. If he's better than the best among us, maybe all that hiding was the plan all along.
+Nous ne saurons jamais vraiment si Dieu a touché l'univers. S'il dépasse en maturité même les plus matures d'entre nous, c'était peut-être son intention, dès le début, de rester caché.
 
-## The creator you won't find
+## Le créateur introuvable
 
-We're finding out a lot of things about the beginnings of the universe. We're just about to map the workings of the brain. It's becoming quite hard to claim that God is necessary for the universe to be the way it is. Every day, we fill the gaps of our knowledge of life and physics, gaps where God used to be the occupant. No more.
+Nous découvrons actuellement bien des choses sur les débuts de l'univers. Bientôt, c'est le fonctionnement du cerveau humain qui sera cartographié. Il devient difficile de défendre que Dieu serait nécessaire pour expliquer quoi que ce soit dans l'univers. À tous les jours, nous comblons les trous de notre compréhension de la vie et de la physique, des trous où jadis Dieu seul était l'occupant. Plus maintenant.
 
-Claiming that God was the creator used to be pretty evident, mostly unquestionable. Now, it's getting clear that God isn't needed for anything about the universe. Certainly not its evolution, and not even its beginnings.
+Autrefois, c'était presque une évidence, incontestable même, de pointer vers Dieu pour le rôle du créateur. Actuellement, on s'aperçoit que Dieu ne serait requis pour rien dans les rouages du cosmos. Certainement pas son évolution, ni même ses débuts.
 
-We're left pondering why anyone would believe in God in the first place. What's the use? There's no ground to sustain the belief. There's no proof to be found.
+Nous voilà pris à nous demander pourquoi quelqu'un croirait en Dieu. Quelle en serait l'utilité? Il n'y aurait aucun fondement pour soutenir la croyance, aucune preuve raisonnable.
 
-And yet...
+Et pourtant...
 
 <!-- MORE -->
 
-## How greatness works
+## Le fonctionnement de l'excellence
 
-At the same time, we're finding out some things about how greatness works, too. In the past couple decades, researchers have polled some of the best among us to see what was so special about them.
+Au même instant dans l'histoire, nous découvrons des choses intéressantes sur l'excellence et ce qui nous y amène. Dans les dernières décennies, les chercheurs ont sondés certains des plus remarquables d'entre-nous afin de déceler ce qui les rendaient si spéciaux.
 
-These people are caring yet decisive, thoughtful yet performant, skillful yet trusting. They make others feel no limit about their personal growth yet they're fully in charge.
+Ces gens sont à la fois compatissant tout en étant délibéré, à la fois songé tout en étant performant, à la fois compétent tout en déléguant avec confiance. Par leur influence, ils font croire à ceux qui les entourent qu'ils n'ont aucune limite à leur croissance, et pourtant, ces leaders sont en plein contrôle de la situation.
 
-Balanced isn't the right word to describe them; these people aren't just a little good at a lot of things, they're very good at opposite things at the same time. They're living paradoxes. They know not to fall in the [trap of thinking in opposites][crisis], they find a way to [achieve opposing things][both].
+On pourrait dire qu'ils sont bien balancés, mais ce ne serait pas le bon qualificatif; ces gens ne sont pas juste un tout petit peu habile dans plusieurs domaines, ils sont très habiles dans des domaines opposés, en même temps. Des paradoxes ambulants, ni plus ni moins. Ils savent éviter le [piège de penser en oppositions][crise], ils trouvent des façons [d'accomplir des choses opposées][both].
 
-[crisis]: /2014-04-surviving-a-crisis-of-faith/
+[crise]: /2014-04-surviving-a-crisis-of-faith/
 [both]: /2012-10-both/
 
-They also don't get stuck on [pre-conceptions or conclusions][mental-models]; they find solutions where no one was looking. They're creative.
+Ils savent ne pas se laisser piéger par des [pré-conceptions ou par des conclusions][modeles-mentaux]; ils trouvent des solutions où personne ne regardaient. Ils sont créatifs.
 
-[mental-models]:/2014-01-intro-to-mental-models/
+[modeles-mentaux]: /2014-01-intro-to-mental-models/
 
-The best of the best have a lot to give to others. They're the best bosses to have, since they make you feel like you're the boss and get out of the way. They setup an environment where you achieve the group's goals and also come out a better person. They take care of the whole thing.
+Ceux qui se démarquent par leur excellence ont beaucoup à donner. Ils font les meilleurs superviseurs puisqu'ils vous font sentir comme c'est vous qui êtes le patron, et ensuite s'enlèvent du chemin. Ils installent un climat favorisant l'atteinte des objectifs du groupe et vous permettant de croître, en même temps, comme personne. Ils gèrent et font croître l'ensemble, le tout.
 
-## Getting to great
+## Se rendre à l'excellence
 
-In the book *[Leadership agility][leadership-agility]*, Bill Joiner [lists five stages of maturity][five-stages], describing the levels at which leaders operate. Here they are:
+Dans l'ouvrage *[Leadership agility][leadership-agility]*, Bill Joiner [énumère les cinq stages de maturité][cinq-stages], décrivant les niveaux dans lesquels les leaders opèrent. Les voici:
 
 [leadership-agility]:http://www.amazon.com/Leadership-Agility-Mastery-Anticipating-Initiating/dp/0787979139
-[five-stages]:http://www.amanet.org/training/articles/The-Five-Levels-of-Leadership-Agility.aspx
+[cinq-stages]:http://www.amanet.org/training/articles/The-Five-Levels-of-Leadership-Agility.aspx
 
-![The five stages of maturity: the Expert, the Achiever, a development ceiling, the Catalyst, the Cocreator, the Synergist]({{ site.base_url }}/d/2014/five-stages-of-maturity.png)
+![les cinq stages de maturité: l'Expert, le Fonceur, un plafond développemental, le Catalyseur, le Cocréateur, le Synergiste]({{ site.base_url }}/d/2014/five-stages-of-maturity.png)
 
-The top three levels are the ones that great leaders operate in. They've crossed an invisible barrier, a developmental *ceiling*, that forced them to shed their ego. Instead of achieving what their ego wants done, they achieve what needs to get done.
+Les trois niveaux supérieurs décrivent les stages dans lesquels opèrent nos plus excellents leaders. Ils ont franchis une cloison invisible, un *plafond* développemental, qui les ont contraints à délaisser leur égo. Au lieu d'accomplir ce que leur égo voudrait déployer, ils accomplissent ce qui doit être fait.
 
-They allow others to have room to achieve, they allow everyone to participate. They not only create — they also allow everyone to *cocreate*.
+Ils permettent aux autres d'avoir de l'espace pour leurs accomplissements, ils permettent à tous de participer. Ils ne font pas que créer — ils permettent à tous de *cocréer*.
 
-## The Cocreator[^synergist]
+## Le cocréateur [^synergiste]
 
-[^synergist]:The chart used Synergist as the highest stage of development. No doubt, I'd say God is the great synergist of all, the one that takes care of the whole and of every one. I just thought the term *cocreator* was the key takeaway, the main evolution on the term *creator*.
+[^synergiste]: Dans le diagramme, c'est le stage du Synergiste qui figurait comme le plus élevé. Sans aucun doute, j'avancerais que Dieu serait le plus grand des synergistes, celui qui prend soin de tous et du *tout*. Je pensais simplement que le terme *cocréateur* était le terme à retenir, l'évolution principale sur le terme *créateur*.
 
-As a seeker and a believer, this ladder of greatness points upward, and I recognize to whom it points. After understanding how these great people work, I started questioning my own ideas about God and started making new parallels.
+En tant que chercheur de Dieu et en tant que croyant, cette échelle de l'excellence pointe vers un sommet, et je reconnais vers qui elle pointe. Après avoir saisi le fonctionnement de ces figures modèles, j'ai commencé à questionner mes propres idées sur Dieu et j'ai tiré de nouveaux parallèles.
 
-Of course, God is not bound by ego, he's not interested in his own agenda nor is he expeditive. He couldn't be if he's more mature than the best of us.
+Bien entendu, Dieu ne serait pas épris d'un égo, il ne poursuivrait pas son propre agenda et n'agirait pas de façon expéditive. Il ne le pourrait pas s'il serait plus mature que les plus matures d'entre nous.
 
-It's no coincidence that God is so hidden, I think. Even though God's actions can't be measured, it becomes apparent to me that he couldn't make them measurable, not if he's interested in our freedom.
+Ce n'est pas par hasard que Dieu soit aussi caché, selon moi. Malgré qu'il nous est impossible de mesurer ses actions, il m'apparaît évident qu'il ne pourrait les rendre mesurables de toute façon, particulièrement s'il est intéressé à ce qu'on soit libre.
 
-I don't know that there's a creator of the universe (not as a fact anyway), but if he's more mature than all of us, being a creator would be too small a role. I bet he's been the *cocreator* of the universe, from the very start:
+Je ne peux prétendre savoir qu'il y ait un créateur à l'univers (en tout cas pas comme un fait), mais s'il est plus mature que chacun de nous, être un simple créateur serait un bien trop piètre rôle à lui conférer. Je paris qu'il a été le *cocréateur* de l'univers, dès le début:
 
-Matter organizes itself by itself. Organized matter becomes simple life. Simple life grows into organized life. Organized life becomes intelligent life. Intelligent life becomes spiritual. Spiritual matter seeks greatness. Spiritual matter understands that there is no proof of God, and yet chooses to believe, freely. Spiritual matter chooses to participate &mdash; to cocreate &mdash; in building the kingdom.
+La matière s'organise par elle-même. La matière organisée devient une forme simple de vie. La forme simple de vie se développe en organismes complexes. Les organismes complexes se développent en organismes intelligents. Les organismes intelligents développent une spiritualité. La matière spiritualisée recherche l'excellence et le dépassement. La matière spiritualisée admet qu'il n'existe aucune preuve pour Dieu, et pourtant choisit de croire, librement. La matière spiritualisée choisit de participer — de cocréer — à bâtir le Royaume.
 
-How majestic! What an act of trust!
+Quelle majesté! Quel marque de confiance!
