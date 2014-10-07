@@ -1,79 +1,79 @@
 ---
 layout: post
 title: Une introduction aux modèles mentaux
-date: 2014-01-19 0:09am
+date: 2014-10-06 11:06pm
 alt_lang_path: /2014-01-intro-to-mental-models/
 ---
 
-A few years ago, I discovered  something that turned out to play an essential role in my personal development: I found out about mental models. While before I was trapped in my own ways of thinking, I'm now much more in command of my thoughts.
+Il y a quelques années, j'ai découvert quelque chose qui s'est avéré plutôt essentiel dans mon développement personnel: j'ai appris au sujet des modèles mentaux. Auparavant j'étais contraint à mes propres façons de penser; maintenant je suis davantage le maître de mes pensées.
 
-I had taken a nine-month contract in another department within the university. As the contract drew near its end, I was haunted by the thought of coming back to my old job. I was sure that it would be horrible: my old team had been moved under a new department with a new supervisor whom I was convinced was a threat to the way I thought web design should be done. It was going to be impossible for me to fit into the new culture, I thought. I resented everything about coming back. I was stuck.
+J'avais accepté une affectation de neuf mois dans un autre département au sein de l'université dans laquelle je travaille. Alors que la fin de mon contrat s'approchait, j'étais tourmenté par l'idée de revenir à mon ancien poste. J'étais convaincu que le retour serait pénible: mon ancienne équipe avait été déplacée sous un nouveau département et sous un nouveau superviseur. J'avais la conviction que ce nouveau patron serait un adversaire à l'approche de conception web que je préconisais. Selon moi, ça s'annonçait comme une impossibilité pour moi de m'intégrer à la nouvelle culture. Je me sentais contrarié par ce retour que j'anticipais à contrecoeur. J'étais pris.
 
-I was offered some leadership training while on that nine-month contract. While taking the course, I learned about something called mental models, and it not only gave me the answer on how to come back to my old job, it made me able to judo past many other life obstacles.
+Pendant cette affectation de neuf mois, on m'a offert une formation en leadership. En prenant la formation, j'ai appris au sujet des modèles mentaux, et se faisant j'ai non seulement découvert la clé du retour à mon ancien poste, mais j'ai également pu me faufiler autour d'autres obstacles que je vivais à l'époque.
 
-I came back to my old job, and not only did this mental model idea help me defuse a bad situation, it created an awesome one: this supervisor became one of the best bosses I've ever had. I had a blast working with him.
+J'ai finalement retourné à mon ancien poste, et cette idée des modèles mentaux n'a pas seulement aidé à désamorcer une mauvaise situation, elle en a créé une meilleure: la relation avec ce patron est devenue l'une des meilleures que j'ai eu dans ma carrière. J'ai eu tout un plaisir à travailler avec lui.
 
 <!-- MORE -->
 
-## Mental models are like coloured eyeglasses
+## Les modèles mentaux, comme des lentilles colorées
 
-![A mind with a filter looks at a green apple, interprets it as a red apple]({{ site.base_url }}/d/2014/intro-to-mental-models-01.jpg)
+![Fixer son regard sur une pomme verte, et l'interpréter comme une pomme rouge]({{ site.base_url }}/d/2014/intro-to-mental-models-01.jpg)
 
-Let's say you were born wearing pink-coloured eyeglasses. All your life, you never realized there could be any other way to see the world than with the colours you're perceiving.
+Disons qu'à la naissance, tu serais né avec des lunettes teintées rose. Toute ta vie, tu n'aurais jamais constaté qu'il y aurait d'autres façons de voir le monde qu'avec les couleurs qui affectaient ta perception.
 
-A mental model is a lot like coloured eyeglasses: it's invisible to you and it colours your perception. It's something in your mind that affects how you perceive your surroundings, it restricts your options and it blocks your discernment.
+Un modèle mental, c'est beaucoup comme une lentille colorée: il t'est invisible et il influence ce que tu perçois. C'est quelque chose qui habite tes pensées et qui affecte la perception de ton entourage, qui réduit tes options et qui altère ton discernement.
 
-Here are some other words that mean the same thing.
+Voici d'autres mots qui décrivent la même chose.
 
-When you have a mental model in your mind, you normally have:
+Lorsqu'un modèle mental s'est installé dans ta tête, tu te retrouve normalement avec:
 
-1. a **conviction**: you're very sure of something;
-2. a **conclusion**: you drew a conclusion before getting the whole picture;
-3. an **interpretation**: you filled the gaps with your own ideas;
-4. a **bias**: things are usually better if they're a certain way for you;
-5. a **judgment**: of course it's obvious that you're right;
-6. a **prejudice**: you've always thought that way;
-7. an **association**: this thing is just like ...;
-8. a **label**: this person is a ...;
-9. an **opposition**: you see two things opposing themselves.
+1. une **conviction**: tu es plutôt certain de quelque chose;
+2. une **conclusion**: tu as tiré une conclusion avant de voir le gros plan;
+3. une **interprétation**: tu as comblé les trous avec tes propres idées;
+4. un **parti pris** (un biais): les choses sont normalement meilleures si elles sont d'une certaine façon pour toi;
+5. un **jugement**: c'est bien évident que c'est toi qui a raison;
+6. un **préjugé**: tu as toujours pensé de cette façon;
+7. une **association**: cette chose est pareille comme ...;
+8. une **étiquette**: cette personne est une...;
+9. une **opposition**: tu vois deux choses en tant qu'opposées;
 
-You may also have heard these other words that are synonyms to a mental model:
+Tu as peut-être déjà entendu ces autres mots qui sont des synonymes au concept de modèle mental:
 
-* a **paradigm**: a deeply-rooted perspective from which you look at things;
-* a **worldview**: a conception of how the world works.
+* un **paradigme**: une perspective bien enracinée de laquelle on perçoit les choses;
+* une **conception du monde** (en anglais, *a worldview*): une conceptualisation de la façon avec laquelle le monde fonctionne.
 
-All of these things mean the same thing: they are a sort of filter between the world and your mind that colours how your mind sees, reads, hears, interprets, analyses, decides and acts.
+Tous ces termes représentent la même idée: ils illustrent tous une sorte de filtre, situé entre le monde et ton cerveau, colorant comment ton esprit perçoit, fait la lecture, entend, interprète, analyse, décide et réagit.
 
-Your mind usually doesn't know when it's seeing through a filter. The hard part is realizing when you've got one.
+Ton esprit ne s'aperçoit habituellement pas qu'il se situe derrière un filtre. Le plus difficile, c'est de réaliser lorsqu'il y en a un.
 
-## Identifying the mental model you have
+## Identifier le modèle mental qui t'habite
 
-![Identifying the presence of the filter, the mind sees the real object: a green apple]({{ site.base_url }}/d/2014/intro-to-mental-models-02.jpg)
+![Identifier la présence d'un filtre, et on perçoit l'objet véritable, une pomme verte]({{ site.base_url }}/d/2014/intro-to-mental-models-02.jpg)
 
-There are a few usual signs that tell you your mind is caught wrestling with a mental model. Something won't feel right. You'll be agitated, annoyed, restless. You might become obsessed. You'll be in a _reaction_. When stuck in a state of reaction, it's hard to regain some perspective.
+Il existe quelques signes habituels qui indiquent que ton esprit est au pris avec un modèle mental. Il y aura un malaise. Tu seras agité, agacé, impatient. Tu pourras te trouver fixé à une idée. Tu seras dans une _réaction_. Lorsqu'on se trouve dans une telle situation de réaction, il devient difficile de regagner de la perspective.
 
-There's a simple question I like to ask myself when I'm stuck in a reactive moment: "What are you so convinced of?" That usually reminds me that I have a mental model colouring my options, a conclusion I'm drawing, a bias I'm not questioning, or a label I'm applying. "What are you so sure of?"
+J'emploie fréquemment une question toute simple lorsque je me trouve dans un de ces moments réactifs: « de quoi es-tu si convaincu? » Cette question me rappelle habituellement que j'étais au pris d'un modèle mental qui colorait mes options, une conclusion que j'avais tirée, un parti pris que je n'avais pas questionné, ou une étiquette que j'avais appliqué. « de quoi es-tu si certain, tout d'un coup? »
 
-For my supervisor story, here are a few mental models I remember having, things I "was sure of":
+Pour l'histoire du superviseur, voici quelques modèles mentaux que je me rappelle avoir entretenu, des choses dont j'étais « convaincu »:
 
-* Surely, the new supervisor is a ...
-* The new department is full of people that are ...
-* I will be incompatible with the management methods of the new supervisor
+* Certainement, ce superviseur est un...
+* Ce nouveau département est plein de personnes qui sont...
+* Je serai incompatible avec les méthodes de gestion de ce nouveau superviseur
 
-I remember making such a list[^list], and for each item, asking myself if they were true. In the course I had taken, they encouraged us to simply answer "maybe". Maybe it's true, maybe it's not. We just don't know yet.
+Je me rappelle avoir dressé une liste[^liste], où pour chacun des items, je m'étais demandé s'il était véridique. Dans la formation dans laquelle j'avais participé, on nous encourageait à simplement répondre « peut-être ». Peut-être que c'est vrai ce que j'avance, peut-être que non. On ne le sait tout simplement pas encore.
 
-[^list]: You may find you have a complex bunch of mental models that are piled on top of one another. In this case, it's time to hunt them down, make a list and identify them all.
+[^liste]: Il se peut qu'à force de creuser, tu découvres une foulée plutôt pêle-mêle de modèles mentaux qui se sont empilés avec le temps. Dans ce cas, vaut mieux les pourchasser un à un, en dresser la liste et les identifier tous.
 
-## Seeing what's really there
+## Percevoir ce qui existe vraiment
 
-Growing up, I loved to draw.  A teacher of mine recommended the book _Drawing with the Right Side of the Brain_. The book claimed that anybody can draw, if only they would stop drawing what they think they see (a chair, a table, an apple) and instead draw what they actually perceive (a line, an angle, a shade, a colour). The secret to knowing how to draw, I remember my teacher saying, is to learn how to _see_.
+Dans mon enfance, j'aimais bien dessiner. Un de mes enseignants m'avait recommandé le livre _Drawing with the Right Side of the Brain_ (dessiner avec l'hémisphère droit du cerveau). Ce livre avançait l'hypothèse que chacun pouvait dessiner, si seulement on cessait de dessiner ce qu'on pense percevoir (une chaise, une table, une pomme) et plutôt dessiner ce qui se trouve vraiment devant nos yeux (une ligne, un angle, une ombre, une teinte de couleur). Le secret d'apprendre à dessiner, l'enseignant aimait répéter, c'est d'apprendre d'abord à _voir_.
 
-In many ways, our left brain is the one interjecting our thoughts with these labels and conclusions. "I've seen this pattern before, it's a ...", "I know him, he's a ..."
+De bien des façons, c'est notre hémisphère gauche qui conditionne nos pensées avec ces étiquettes et ces conclusions. « J'ai déjà vu ce type d'exemple auparavant, c'est un ...», « Je le connais lui, c'est un ...»
 
-Once you have spotted the things that are affecting your objectivity, the next step is to look at what's really verifiable in what you're seeing. What are the facts? What's left if you remove all your interpretations and convictions and judgments and shortcuts?
+Après avoir repéré ce qui affecte ton objectivité, la prochaine étape c'est de faire le compte de ce qui est vraiment vérifiable dans ce que tu perçois. Quels sont les faits? Que reste-t-il après avoir enlevé toutes les interprétations et toutes les convictions et tous les jugements et tous les raccourcis?
 
-What's left are the things you can use to make a decision. What's left is the material on which you can construct, because it's solid. All of what's left is factual: it's what is actually there, not the thing you think is there.
+Ce qui reste, c'est ce qui peut être employé pour prendre une décision. Ce qui reste, c'est le matériel sur lequel tu pourras construire, puisque c'est solide. Tout ce qui reste est factuel: c'est ce qui se trouve véritablement devant tes sens, non pas ce que tu pense percevoir.
 
-Getting to this point will make you better at solving problems and leading changes. It will get you unstuck and allow you to move on. Better yet, it'll allow you to go over some more important barriers you think you have and you'll be clear to grow into the bigger things life awaits for you.
+Cheminer jusqu'ici te permettra d'améliorer ta capacité à résoudre des problèmes et à entreprendre des changements. Ça te rendra capable de te déprendre et de continuer à progresser. Mieux encore, ça te permettra de franchir de biens plus importants obstacles qui semblent te restreindre et tu seras libre d'emboîter le pas vers de plus vastes horizons qui t'attendent.
 
-So to be in charge of where your mind wants to take you, take a step back and pin point the thing you're convinced of, the thing that colours your perception &mdash; the mental model that distorts your view. You'll then be able to see what's really there and you'll know what to do about it.
+Donc, pour être le maître de tes pensées, il suffit de prendre un peu de recul et d'identifier ce dont tu semble être convaincu, la chose qui colore ta perception &mdash; le modèle mental qui déforme ta vision. Tu seras alors capable de percevoir ce qui se trouve vraiment devant tes yeux et tu sauras comment l'adresser.
