@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Dieu, cocréateur'
-date: 2014-06-12 22:06pm
+date: 2014-10-06 11:10pm
 alt_lang_path: /2014-06-god-cocreator/
 ---
 
@@ -27,12 +27,12 @@ Ces gens sont à la fois compatissant tout en étant délibéré, à la fois son
 
 On pourrait dire qu'ils sont bien balancés, mais ce ne serait pas le bon qualificatif; ces gens ne sont pas juste un tout petit peu habile dans plusieurs domaines, ils sont très habiles dans des domaines opposés, en même temps. Des paradoxes ambulants, ni plus ni moins. Ils savent éviter le [piège de penser en oppositions][crise], ils trouvent des façons [d'accomplir des choses opposées][both].
 
-[crise]: /2014-04-surviving-a-crisis-of-faith/
-[both]: /2012-10-both/
+[crise]: /2014-10-survivre-une-crise-de-foi/
+[both]: {{ site.alt_lang_url }}/2012-10-both/
 
 Ils savent ne pas se laisser piéger par des [pré-conceptions ou par des conclusions][modeles-mentaux]; ils trouvent des solutions où personne ne regardaient. Ils sont créatifs.
 
-[modeles-mentaux]: /2014-01-intro-to-mental-models/
+[modeles-mentaux]: /2014-10-intro-aux-modeles-mentaux/
 
 Ceux qui se démarquent par leur excellence ont beaucoup à donner. Ils font les meilleurs superviseurs puisqu'ils vous font sentir comme c'est vous qui êtes le patron, et ensuite s'enlèvent du chemin. Ils installent un climat favorisant l'atteinte des objectifs du groupe et vous permettant de croître, en même temps, comme personne. Ils gèrent et font croître l'ensemble, le tout.
 
