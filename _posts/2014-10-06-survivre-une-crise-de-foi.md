@@ -1,34 +1,34 @@
 ---
 layout: post
 title: "Survivre une crise de foi et vivre l'Évangile à fond"
-date: 2014-04-29 20:12pm
+date: 2014-10-06 11:09pm
 alt_lang_path: /2014-04-surviving-a-crisis-of-faith/
 ---
 
-If you care about faith and about being a sensible, honest person, you've probably struggled with doubt. Maybe you're going through a crisis of faith right now. If so, hold on.
+Si ta foi te tiens à coeur et si tu aspire à être une personne sensible et honnête, tu as sûrement déjà été accablé par le doute. Tu vis peut-être actuellement une crise de foi. Si c'est le cas, tiens bon.
 
-A few years ago, I remember going through a crisis of my own, and my doubts made me feel like I was in a free-fall trying to grasp for something to hang on to. Around that time, I participated in a work retreat and confided these struggles to the facilitator (the host) of the retreat. In response, he shared the story of a man he once helped out:
+Il y a quelques années, je me rappelle avoir vécu ma propre crise, où mes doutes me faisaient sentir comme si j'étais en chute libre, tentant sans succès de m'agripper à quelque chose. A un certain moment durant cette épisode, j'ai participé à une retraite au travail et j'ai confié ces tourments à l'animateur. En réponse, il m'a partagé l'histoire d'un homme à qui il avait, pour un tourment similaire, prêté main forte:
 
-This man was a native american who was torn between two identities: the warrior, and the healer. He felt both of these identities within him, and he felt them fighting, conflicting as opposites. The warrior within him wanted to fight and destroy; the healer within him wanted to heal others, renew them and re-build them. He felt wrestled between the two, restless at the energy it drew from him.
+Cet homme était un Amérindien qui était déchiré entre deux identités: le guerrier et le guérisseur. Il sentait ces deux identités distinctes dans son être, et il les sentait se battre, en conflit, comme des opposés. Le guerrier voulait se battre et détruire; le guérisseur voulait guérir les autres, les renouveler et les rebâtir. L'homme se sentait tiraillé entre les deux, épuisé par l'énergie tirée de ce conflit.
 
-Before we continue with this story, let's look at two opposing statements about God: ‘there is a God’ and ‘there is no God’. Which one is true?
+Avant de continuer avec cette histoire, considérons d'abord deux énoncés opposés sur Dieu: « il existe un Dieu » et « il n'existe pas un Dieu ». Lequel de ces énoncés est vrai?
 
 <!-- MORE -->
 
-The facilitator proposed to the native american the following exercise: take both your hands, and stretch them out on each side of your body. One of your hands represents the warrior, and the other, the healer. Now feel the conflict between the two hands and how they are separate things. Slowly, bring them closer together in front of you, then bring them together. Now they are one.
+L'animateur a proposé à l'Amérindien l'exercice suivant: étend tes bras de chaque côté. L'une de tes mains représente le guerrier, et l'autre, le guérisseur. Ressent la tension entre les deux mains et comment les deux mains sont distinctes. Lentement, rapproche les en avant de toi, puis joint-les. Maintenant, elles ne font qu'une.
 
-![Two arrows pushing into the same space]({{ site.base_url }}/d/2014/surviving-a-crisis-of-faith.jpg)
+![Deux flèches qui pointent vers un même espace]({{ site.base_url }}/d/2014/surviving-a-crisis-of-faith.jpg)
 
-Consider again the two statements above and apply them to the exercise: One of your hands represents ‘there is a God’ and the other hand represents the statement ‘there is no God’. Which one is true?
+Reconsidère maintenant les deux énoncés proposés ci-haut et applique-les à cet exercice: l'une des mains représente « il existe un Dieu » et l'autre main représente « il n'existe pas un Dieu ». Lequel des deux est vrai?
 
-Bring your hands together: can both statements be true, at the same time? Watch, carefully, what happens in your mind as you consider this question. Notice how you struggle to accept two opposing ideas being true at the same time. Have you noticed that you are putting a word, in your mind, between these two ideas? Do you hear yourself adding an ‘or’? "It's either ‘There is a God’ _or_ ‘There is no God’. It can't be both."
+Joins tes deux mains ensemble: est-ce que les énoncés peuvent être tous deux vrais, en même temps? Porte attention à ce qui se passe dans ta tête en considérant cette question. Remarque bien la tension à accepter ces deux idées opposées comme étant vraies, en même temps. As-tu remarqué que tu employait un mot, dans ta tête, entre ces deux idées? T'as-tu entendu ajouter un « ou »? «C'est soit ‹ il existe un Dieu › _ou_ ‹ il n'existe pas un Dieu ›. On ne peut avoir les deux. »
 
-What if you change the ‘or’ with an ‘and’? Ask yourself the question: "Is there any way that, &mdash; and this is the important part &mdash; within _myself_, I can live with the two opposing ideas, together, at once?"
+Et si on changeait ce « ou » en « et »? Poses-toi la question suivante: «Y a-t-il une façon que &mdash; et c'est ici la partie importante à se demander &mdash; _à l'intérieur de moi_, je puisse vivre avec ces deux idées opposées, toutes deux, en même temps? »
 
-This exercise may seem really strange,  yet I think the lesson it teaches is necessary for a mature faith, a faith that tells the Gospel freely.
+Cet exercice peut paraître un peu bizarre, et pourtant, je crois que la leçon à en tirer est nécessaire pour une foi mature, une foi qui annonce l'Évangile librement.
 
-Nurturing an 'and' in your mind will allow you to freely concede the possibility that there is no God. Without that possibility, the Gospel that touched you wouldn't be a Gospel of choice, but a Gospel that needs to be true. That's hardly a choice at all, is it?
+Entretenir un « et » en ton esprit te permettra d'admettre librement la possibilité qu'il n'y ait pas de Dieu. Sans cette possibilité, l'Évangile qui t'as touché ne serait pas un Évangile choisi, mais plutôt un Évangile nécessaire d'être vrai. Alors dans tel cas, le choix n'existerait pas vraiment, n'est-ce pas?
 
-When we talk with so-called non-believers while carrying an 'or' mindset, we take out our foolish, proof-laden arguments for why God must exist. With an 'and' mindset, the discourse becomes centred on relatable testimony and personal experiences. The us-or-them dichotomy transforms into an inclusive exchange. After all, we are, deep down, both a skeptic _and_ a seeker. And that admission is a fertile place to start the discussion.
+Lorsqu'on discute avec des soit-disant non-croyants tout en entretenant la perspective du « ou », on est porté à sortir nos gros arguments et nos preuves démontrant comment Dieu doit nécessairement exister. Avec la perspective du « et », l'échange se centre plutôt autour de témoignages auxquels l'autre peut s'identifier et autour d'expériences personnelles. La dichotomie nous-contre-eux se transforme en un échange inclusif. En fin de compte, nous sommes tous, au plus profond, à la fois un sceptique _et_ un chercheur. Et cette admission offre un terrain fertile pour entamer la discussion.
 
-So consider the idea of 'and' while you work through your doubts. It might not only dissolve a crisis of faith; it might help you live the Gospel freely, fully.
+Considère donc l'idée du « et » en naviguant tes doutes. Cette idée pourrait non seulement désamorcer une crise de foi; elle pourrait tout autant t'aider à vivre l'Évangile librement, à fond.
