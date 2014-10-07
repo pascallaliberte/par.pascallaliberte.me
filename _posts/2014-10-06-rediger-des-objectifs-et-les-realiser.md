@@ -1,98 +1,98 @@
 ---
 layout: post
-title: 'Rédiger des objectifs qui seront accomplis'
-date: 2013-12-29 3:20pm
+title: 'Rédiger des objectifs et les réaliser'
+date: 2014-10-06 11:01pm
 alt_lang_path: /2013-12-writing-objectives-you-will-accomplish/
 ---
 
-There's a problem with most of the objectives we write down: most of them are written as wishes, and that's why they don't get done.
+La plupart des objectifs que l'on se fixe souffrent d'un problème: ils sont rédigés comme des souhaits, et c'est pour cette raison qu'il est difficile de les réaliser.
 
-![Arrows stopping short of the goal]({{ site.baseurl }}/d/2013/writing-objectives-you-will-accomplish-01.png)
+![Des flèches n'atteignant pas complètement l'objectif]({{ site.baseurl }}/d/2013/writing-objectives-you-will-accomplish-01.png)
 
-Objectives we write usually end up looking something like this:
+Les objectifs que nous nous donnons prennent souvent une allure similaire à celle-ci:
 
-### My objectives:
+### Mes objectifs:
 
-* Lose 15 pounds by spring
-* Exercise twice a week
-* Spend more time with my family
+* Perdre 15 livres avant le printemps
+* Faire de l'exercice deux fois par semaine
+* Passer plus de temps en famille
 
-This list has some good objectives. You'll know when you'll have lost 15 pounds and you know by when. You'll know whether or not you'll have stuck to your exercise routine. The first two are specific, measurable and tied to a schedule.[^smartobjectives]
+Cette liste contient de bons objectifs. Il sera clair pour toi de voir si tu as perdu les 15 livres avant l'échéance donnée, comme il sera facile de savoir si tu as respecté une routine de t'exercer deux fois par semaine. Ces deux premiers objectifs sont spécifiques, mesurables et liés à une échéance.[^objectifssmart]
 
-[^smartobjectives]: You can make objectives that are "SMART", which is an acronym for ["Specific, Measurable, Attainable, Relevant and Time-bound"](http://en.wikipedia.org/wiki/SMART_criteria).
+[^objectifssmart]: Vous pouvez dresser des objectifs qui sont « SMART », un acronyme pour ["Spécifiques, Mesurables, Atteignables, Réalistes et Temporellement défini"](http://fr.wikipedia.org/wiki/Objectifs_et_indicateurs_SMART).
 
-What is this list missing? "Spend more time with my family" isn't really specific nor measurable, but that's not the biggest problem.
+Alors que doit-on améliorer à cette liste? "Passer plus de temps en famille" n'est ni spécifique ni mesurable, mais ce n'est pas le plus important problème à adresser.
 
-The biggest problem is that these objectives are stated as wishes.
+Le plus important problème: ces objectifs sont formulés comme des souhaits.
 
 <!-- MORE -->
 
-## Wish-for lists
+## Des listes de souhaits
 
-Listen to what your mind says before each item. You'll probably hear "I'd like to." "I should." "I have to."
+Écoute bien ce qui se passe dans ta tête avant de lire chaque item. Tu entendras probablement des « J'aimerais », des «Je devrais » ou des « Je dois. »
 
-### My objectives:
+### Mes objectifs:
 
-* (I have to) Lose 15 pounds by May
-* (I should) Exercise twice a week
-* (I'd like to) Spend more time with my family
+* (Je dois) Perdre 15 livres avant le printemps
+* (Je devrais) Faire de l'exercice deux fois par semaine
+* (J'aimerais) Passer plus de temps en famille
 
-Each objective, alone, sounds fine. In a list, they're already in conflict with each other. With everything else that's in your life, they're just something you're wishing you'll accomplish. As time goes by, they'll be more and more tied to the past. You may or may not follow your decisions. Guilt will set in. Inevitably, you'll have to go back to make a new list.
+Chaque objectif, pris individuellement, pourrait être réalisable. Contenus dans une liste, ces objectifs se disputent maintenant ton attention. Avec tout ce qui se passe dans ta vie, ils ne se réduisent qu'à des choses que tu souhaites accomplir. Avec le temps, ils appartiendront de plus en plus au passé. Tu n'honoreras peut-être plus tes décisions. La culpabilité l'emportera. Après un certain moment, il faudra revenir et dresser une nouvelle liste.
 
-So how do you rewrite objectives to be less like wishes and more like accomplishments that will occur? Don't start from now going forward, start with the end and work your way back.[^endinmind]
+Alors comment réécrire ces objectifs pour qu'ils soient moins comme des souhaits et davantage comme des accomplissements qui auront lieu? Le truc: au lieu de regarder vers l'avant à partir de la perspective du moment actuel, visualiser la finalité et regarder vers l'arrière.[^lafinentete]
 
-[^endinmind]: In _[The 7 Habits of Highly Effective People][7habits]_, Stephen Covey introduced the habit: _Begin with the End in Mind_. Here, I'm applying this habit to writing objectives.
-[7habits]:http://www.amazon.com/The-Habits-Highly-Effective-People/dp/0743269519
+[^lafinentete]: Dans _[Les 7 habitudes de ceux qui réalisent tout ce qu'ils entreprennent][7habitudes]_, l'auteur Stephen Covey introduit l'habitude qu'il nomme _commencer avec la fin en tête_. Ici, j'applique cette habitude dans la rédaction d'objectifs.
+[7habitudes]:http://www.amazon.ca/HABITUDES-CEUX-RÉALISENT-QUILS-ENTREPRENNENT/dp/2290057924/
 
-## Starting with "I will have"
+## Introduire le « j'aurai »
 
-![Arrows stopping short of the goal, and one arrow going the full distance]({{ site.baseurl }}/d/2013/writing-objectives-you-will-accomplish-02.png)
+![Des flèches n'atteignant pas complètement l'objectif, et une flèche qui l'atteint]({{ site.baseurl }}/d/2013/writing-objectives-you-will-accomplish-02.png)
 
-The trick is a little weird: Rewrite the title of your list, and in it, include the words "I will have". You're probably best to include a date, while you're at it: "**Before May, I will have**."
+Dans le concret, le truc à employer est un peu surprenant: Réécrire le titre de la liste d'objectifs et y inclure l'expression « j'aurai ». Y ajouter également une date: « **Avant le mois de mai, j'aurai**. »
 
-Having "I will have" in the title forces you to rewrite the objectives with the start of "May" in mind. And it forces you to rewrite your statements. It's no longer "Lose 15 pounds", it's "Lost 15 pounds". That's what you *will have done*, before May.
+Ce « j'aurai » t'oblige à réviser les objectifs avec le début du mois de mai en tête. Il t'oblige ainsi à les réécrire. Ce ne sera plus « perdre 15 livres », ce sera « perdu 15 livres ». C'est ce que tu *auras accomplis* avant le mois de mai.
 
-### Before May, I will have:
+### Avant le mois de mai, j'aurai:
 
-* Lost 15 pounds
-* Exercised twice a week
-* Spent more time with my family
+* Perdu 15 livres
+* Fait de l'exercice deux fois par semaine
+* Passé plus de temps en famille
 
-This forces you to imagine a future position, and that's the key to visualizing a succesful outcome.
+Cette approche t'amène à imaginer une situation future.  Voilà la clé pour atteindre une réussite.
 
-## Making a list that will be true
+## Dresser une liste qui aura été vraie
 
-With "Before May" solidly in mind, you can then ask yourself whether each of these objectives is 1) **in the right order** and 2) really what you want to have accomplished by May, and **if there's something missing**.
+Avec cet « avant le mois de mai » solidement en tête, tu peux maintenant te demander si chacun des objectifs: 1) est **dans le bon ordre**, 2) décrit vraiment ce que tu voudras avoir accomplis avant le mois de mai, et en dernier lieu, **s'il manque quelque chose à la liste**.
 
-First, let's change the order. What, before May, do you want to celebrate you'll have done, that's most important? Put that first. For me, it would be to have "Spent more time with my family".
+D'abord, changeons l'ordre des items de la liste. Lequel, avant le mois de mai, voudrais-tu le plus pouvoir célébrer l'accomplissement? Met-le en premier. Dans mon cas, ce serait d'avoir « passé plus de temps en famille. »
 
-### Before May, I will have:
+### Avant le mois de mai, j'aurai:
 
-1. Spent more time with my family
-2. Lost 15 pounds
-3. Exercised twice a week
+1. Passé plus de temps en famille
+2. Perdu 15 livres
+3. Fait de l'exercice deux fois par semaine
 
-And now, let's say you could accomplish anything by May, what would be the most important thing you'd like to say you'll have done? For me, spending more time with my family is at the top. Losing weight is less important for me because it's about my own development. My kid's development is more important to me, and that means building more empathy toward their day-to-day life. And in so doing, I won't put the effort to lose as many pounds or exercise as much, so I'll adjust those objectives to be more realistic, given their new relative importance.
+Et maintenant, si on supposait que tu pourrais accomplir n'importe quoi avant le mois de mai, quel serait la chose la plus importante que tu aimerais célébrer? En ce qui me concerne, passer du temps en famille figure toujours en premier. Perdre du poids importe un peu moins puisqu'il s'agît de mon propre développement. L'épanouissement de mes enfants m'importe beaucoup plus, et dans mon cas, j'aurais à me concentrer à bâtir une plus grande empathie envers leur vie de tous les jours. Par conséquent, puisque je ne m'appliquerai pas autant à perdre du poids ou à faire de l'exercice, je vais ajuster ces objectifs pour qu'ils soient plus réalisables, considérant leur importance relative au reste.
 
-### Before May, I will have:
+### Avant le mois de mai, j'aurai:
 
-1. Spent more time with my family
-2. Built more empathy for my kids' day-to-day life.
-3. Lost 10 pounds
-4. Exercised once a week
+1. Passé plus de temps en famille
+2. Développé une plus grande empathie envers mes enfants et ce qu'ils vivent à tous les jours
+2. Perdu 10 livres
+3. Fait de l'exercice une fois par semaine
 
-Now that's much truer of where I'd like to be on May 1st.
+Voilà donc une liste qui est mieux ajustée à ce que j'aimerais avoir véritablement accompli, avant le premier mai.
 
-## Adjusting as you go
+## Apporter des ajustements au besoin
 
-With this way of writing, you're forced to reprogram yourself. *Today*, you make choices on how you'll align yourself to be the person you want to be *Before May*.
+Cette façon de rédiger les objectifs t'oblige à te reprogrammer. *Aujourd'hui*, tu prends des choix qui t'aligneront vers la personne que tu planifies devenir *avant le mois de mai*.
 
-And if you discover there's something missing or one of the statements is not quite true to where you'd really like to be by May 1st: re-write the statements. You're going toward an end goal. Adjust your aim as you get a clearer view of the target.
+Et si tu découvres qu'il manque quelque chose ou que l'un de tes objectifs ne décrit pas véritablement le point où tu aimerais être au 1er mai, ré-écris tes objectifs. Tu te diriges vers un but. Ajuste donc le tir à mesure que ta cible te paraîtra plus claire.
 
-## Applying it daily
+## L'appliquer quotidiennement
 
-To make sure you get them done: review your objectives every day, and set some closer targets. Losing 15 pounds by May 1st? How many pounds per day do you have to lose? Make a graph, plot a line and stick to it. Set something you can measure against every day.
+Afin d'assurer que tu te rendes au but fixé, révises tes objectifs à tous les jours et établis des cibles plus rapprochées. Tu tiens à perdre 15 livres avant le 1er mai? Combien de livres devras-tu perdre par jour? Composes un graphique avec une courbe correspondant à la perte quotidienne projetée et tiens compte de ton progrès. Établis une formule que tu pourras appliquer quotidiennement.
 
-## From wishes to will-have-done lists
+## Passer des souhaits à des objectifs qui seront réalisés
 
-So when you write your next list of objectives, start each one off in your head with "By this event, I will have...". You'll then **turn your *wish-for* lists into *will-have-done* lists** and turn today's choices toward a future, better version of yourself.
+La prochaine fois que tu dresseras une liste d'objectifs, rappelles-toi de la rédiger avec la formule « Avant tel événement, j'aurai. » Tu auras alors **changé tes listes de souhaits en listes d'objectifs qui seront réalisés**, te permettant d'orienter les choix de demain vers une version future et meilleure de toi-même.
