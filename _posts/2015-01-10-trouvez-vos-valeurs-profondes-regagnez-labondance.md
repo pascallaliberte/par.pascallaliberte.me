@@ -25,7 +25,7 @@ L'[exercice *Mountains and Valleys*][exercice] t'invite à énumérer les moment
 
 J'ai choisi d'apporter l'exercice un peu plus loin en énumérant des sous-valeurs et mes contres-valeurs. Les sous-valeurs renchérissent chacune des valeurs de termes additionnels permettant d'en dresser un portrait plus complet. Les contres-valeurs, quant à elles, représentent les mots inverses, ce envers quoi je m'oppose.
 
-Quel sentiment libérateur d'avoir découvert une telle liste! Ça m'a permis de comprendre le sentiment de carence que je vivais dans mes vallées (mes pires moments) et le sentiment d'abondance qui m'habitait au plus de mes sommets (mes meilleurs moments).
+Quel sentiment libérateur d'avoir découvert une telle liste! Ça m'a permis de comprendre le sentiment de carence que je vivais dans mes vallées (mes pires moments) et le sentiment d'abondance qui m'habitait au plus haut de mes sommets (mes meilleurs moments).
 
 Au fil des mois je me suis mis à reconnaître que j'avais maintenant d'autres alternatives, que je pouvais pointer les éléments de ma vie vers de nouveaux sommets.
 
@@ -33,18 +33,18 @@ Au fil des mois je me suis mis à reconnaître que j'avais maintenant d'autres a
 
 J'ai trouvé un grand plaisir à vérifier chacun des éléments de ma vie et leur concordance avec mes valeurs.
 
-Pour ce qui est des relations, j'avais déjà déterminé de que comportaient [mon cercle interne et mon cercle externe][cercles], donc c'était plus facile de voir lesquels parmi mes cercles exerçaient mes valeurs, et lesquels exerçaient plutôt mes contres-valeurs.
+Pour ce qui est des relations, j'avais déjà déterminé qui faisaient partie [de mon cercle interne et de mon cercle externe][cercles], donc c'était plus facile de voir lesquels parmi mes amis exerçaient mes valeurs, et lesquels exerçaient plutôt mes contres-valeurs.
 
 [cercles]: http://by.pascallaliberte.me/2013-09-keeping-up-with-news/
 
 Quelle nouvelle! Certains de mes amis semblent épouser mes contres-valeurs! C'est quoi cette histoire? Pourquoi j'entretiendrais de telles relations? J'ai envisagé l'idée de céder ces liens, mais cette approche m'a parue insensée; je savais qu'il existait des façons plus intègres de renégocier les attentes. J'ai donc entamé le processus d'occasionner ces importantes conversations.
 
-Puis, j'ai vérifié les activités et les événements auxquels je participe et j'ai été surpris de leur cohérence avec mes valeurs. J'ai constaté que je passe beaucoup de mon temps dans des événements de ma communauté chrétienne et ça m'a semblé évident d'en reconnaître le pourquoi.
+Puis, j'ai vérifié les activités et les événements auxquels je participe et j'ai été surpris de leur cohérence avec mes valeurs. J'ai constaté que je participe souvent à des événements de ma communauté chrétienne et ça m'a semblé évident d'en reconnaître le pourquoi.
 
 Ensuite, il y a mon emploi. Ça m'a surpris combien mes valeurs y étaient si peu représentées, et pourtant elles l'étaient, parmi certaines personnes plus animées que j'ai naturellement recherchées et côtoyées au fil des ans. Pas surprenant que le changement culturel me passionne autant! Et pourtant, cette réalisation m'a paru importante.
 
 Avec toute cette nouvelle connaissance, je me suis mis à rechercher les activités, les lieux et les personnes qui représentent mieux ce que je valorise, et j'en tire de nouvelles alternatives pour regagner l'abondance.
 
-Mais ça ne s'arrête pas là pour moi. Je commence à communiquer ses valeurs nouvellement découvertes -- les porter, les vivre -- puisque l'abondance mérite d'être partagée davantage que d'être gardée pour soi.
+Mais ça ne s'arrête pas là pour moi. Je commence à communiquer ces valeurs nouvellement découvertes -- les porter, les vivre -- puisque l'abondance mérite d'être partagée davantage que d'être gardée pour soi.
 
-Donc voici le [lien vers l'exercice][exercice]. Si vous voulez en faire un travail exhaustif, ça devrait vous prendre quelques semaines afin de tout compléter et apporter des petits ajustements jusqu'à ce que vous toucheriez le fond des choses. Amusez-vous bien!
+Donc voici le [lien vers l'exercice][exercice]. Si vous voulez en faire un travail exhaustif, ça devrait vous prendre quelques semaines afin de tout compléter et apporter des petits ajustements jusqu'à ce que vous touchez le fond des choses. Amusez-vous bien!
