@@ -19,7 +19,7 @@ Teehan+Lax a demandé de l'aide pour leur problème de départs d'employés. On 
 
 ![Montagnes, vallées, le bon et le mauvais]({{ site.base_url }}/d/2015/trouvez-vos-valeurs-profondes-regagnez-labondance.png)
 
-L'[exercice *Mountains and Valleys*][exercice] t'invite à énumérer les moments les plus importants de ta vie, ceux qui te paraissent les plus influents; les bons et les mauvais. À partir de chacun de ses moments (ou chacun des *épisodes* de ta vie), vous dresserez une liste des valeurs qui étaient présentent (représentées) et des valeurs manquantes (menacées). Vous en tirez une longue liste de valeurs à laquelle vous pourrez en ajouter et que vous pourrez réduire à vos valeurs centrales, profondes.
+L'[exercice *Mountains and Valleys*][exercice] t'invite à énumérer les moments les plus importants de ta vie, ceux qui te paraissent les plus influents; les bons et les mauvais. À partir de chacun de ses moments (ou chacun des *épisodes* de ta vie), vous dresserez une liste des valeurs qui étaient présentes (représentées) et des valeurs manquantes (menacées). Vous en tirez une longue liste de valeurs à laquelle vous pourrez en ajouter et que vous pourrez réduire à vos valeurs centrales, profondes.
 
 [exercice]:http://www.culturesync.net/toolbox/mountains-and-valleys/ "L'exercice Mountains and Valleys, par Dave Logan"
 
