@@ -5,17 +5,8 @@ alt_lang_path: /all-posts/
 ---
 
 <div class="archives">
-{% assign year = "" %}
+<ul>
 {% for post in site.posts %}
-  {% capture new_year %}{{ post.date | date: "%Y" }}{% endcapture %}
-  {% if new_year != year %}
-    {% if year != "" %}
-    </ul>
-    {% endif%}
-    {% assign year = new_year %}
-    <h3>{{ year }}</h3>
-    <ul>
-  {% endif %}
   <li>
     <a href="{{ post.url }}">
       {% if post.layout == "quote" %}
@@ -26,7 +17,6 @@ alt_lang_path: /all-posts/
     </a>
   </li>
 {% endfor %}
-
 </ul>
 
 </div>
