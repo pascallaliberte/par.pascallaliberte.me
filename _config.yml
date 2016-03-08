@@ -14,5 +14,6 @@ baseurl:
 port: 4001
 gems:
   - jekyll-sitemap
+  - jekyll-paginate
 exclude:
   - a/bower_components/jquery.smooth-scroll/index.html
