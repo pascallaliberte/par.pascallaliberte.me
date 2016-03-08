@@ -16,4 +16,3 @@ gems:
   - jekyll-sitemap
 exclude:
   - a/bower_components/jquery.smooth-scroll/index.html
-  - a/bower_components/swipebox/index.html
