@@ -33,7 +33,7 @@ Chacune d'elles me semblent désalignées: autant plus lorsqu'on les compare à 
 
 **Le don**: Avec celui-ci, on se rapproche un peu plus. Le don, c'est un gros morceaux du dépassement personnel. Ça exige de renoncer à nos besoins, de garder de notre surplus pour les autres jusqu'à parfois tout donner. Je pourrais en faire long vers cette destination et je resterais près du coeur de l'évangile, mais ce n'est pas exactement ça l'évangile. L'évangile, c'est autre chose.
 
-![image d'un cône recâdré par un autre]({{ site.base_url }}/d/2016/evangile-au-centre-02.png)
+![image d'un cône recâdré par un autre]({{ site.base_url }}/d/2016/evangile-au-centre-03.png)
 
 ## L'évangile, c'est autre chose.
 
